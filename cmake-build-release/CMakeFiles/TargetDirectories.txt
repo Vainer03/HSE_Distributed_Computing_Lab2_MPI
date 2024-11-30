@@ -1,0 +1,6 @@
+/mnt/d/Programming/hse_programming/Distributed_Computing/HSE_DC_Lab2_CLion/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/mnt/d/Programming/hse_programming/Distributed_Computing/HSE_DC_Lab2_CLion/cmake-build-release/CMakeFiles/task_3.dir
+/mnt/d/Programming/hse_programming/Distributed_Computing/HSE_DC_Lab2_CLion/cmake-build-release/CMakeFiles/task_2.dir
+/mnt/d/Programming/hse_programming/Distributed_Computing/HSE_DC_Lab2_CLion/cmake-build-release/CMakeFiles/edit_cache.dir
+/mnt/d/Programming/hse_programming/Distributed_Computing/HSE_DC_Lab2_CLion/cmake-build-release/CMakeFiles/task_1.dir
+/mnt/d/Programming/hse_programming/Distributed_Computing/HSE_DC_Lab2_CLion/cmake-build-release/CMakeFiles/HSE_DC_Lab2_CLion.dir
