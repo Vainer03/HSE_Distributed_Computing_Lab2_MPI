@@ -1,6 +1,0 @@
-#ifndef HSE_DC_LAB2_CLION_TASK_3_H
-#define HSE_DC_LAB2_CLION_TASK_3_H
-
-
-
-#endif //HSE_DC_LAB2_CLION_TASK_3_H
